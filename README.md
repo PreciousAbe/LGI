@@ -1,2 +1,2 @@
 # LGI
-States and its LGI in Nigeria
+States and its Local government area in Nigeria
